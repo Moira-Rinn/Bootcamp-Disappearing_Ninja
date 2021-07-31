@@ -1,0 +1,3 @@
+#Disappearing Ninja Assignment
+
+A basic page playing with jQuerry .click, .hide, .show., and .this....
